@@ -22,7 +22,3 @@ Backend runs at:
 ```text
 http://localhost:8080
 ```
-
-## Author
-
-Harsha L
